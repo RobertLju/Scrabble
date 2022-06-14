@@ -1,0 +1,14 @@
+C:\Users\Robert\source\repos\Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.exe
+C:\Users\Robert\source\repos\Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.deps.json
+C:\Users\Robert\source\repos\Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.runtimeconfig.json
+C:\Users\Robert\source\repos\Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.dll
+C:\Users\Robert\source\repos\Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.pdb
+C:\Users\Robert\source\repos\Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\source\repos\Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.AssemblyInfo.cs
+C:\Users\Robert\source\repos\Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.dll
+C:\Users\Robert\source\repos\Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.pdb
+C:\Users\Robert\source\repos\Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.genruntimeconfig.cache
